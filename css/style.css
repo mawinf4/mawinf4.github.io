@@ -1,0 +1,82 @@
+
+             .header{
+           height: 180px;
+           background-color:red ;
+        
+        }
+        #left-container{
+            height: 450px;
+            background-color: green;
+            width: 50%;
+            float: left;
+        
+        }
+        #right-container{
+            height:450px;
+            background-color: gold;
+            width: 50%;
+            float: left;
+        }
+            
+        .footer{
+            height: 350px;
+            background-color: orange;
+            clear:both;
+        }
+        body{
+            margin: 0px;
+            font-family: sans-serif
+        }
+         #left-contair img{
+             display:block;
+            margin: auto;
+            margin-top: 50px;
+         }
+        #left-contair h2{
+
+            display: block;
+            margin: auto
+        }
+
+        #footer-container h2{
+
+        }
+
+        #right-container{
+            font-family:'Times New Roman', Times, serif;
+            
+        }
+
+        #bt-grallry-{
+            float: 60px;
+            height: 60px;
+            width: 60px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            bottom: 40px;
+            right: 100px;
+            background: blue
+
+
+
+
+
+
+
+
+
+
+
+        }
+       
+
+
+
+
+
+
+
+
+
+
+
+    
